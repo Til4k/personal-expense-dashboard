@@ -58,7 +58,7 @@ During the project, several preprocessing steps were performed:
 ---
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshot here)
+![dashboard_preview_image](screenshot/dashboard_preview.png)
 
 ---
 
